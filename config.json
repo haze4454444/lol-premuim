@@ -1,0 +1,32 @@
+{
+  "token": "",  
+  "username": "",
+  "password": "", 
+
+  "port": "3000",
+  
+  "clientId": "1212649724461588520",
+  "guildId": "1033085175531307018",
+  "globalDeploy": true,
+
+  "status": "Haze Family",
+  "website": "https://discord.gg/hazefamily",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "Haze Family",
+
+  "genChannel": "000000000000000000000",
+  "premiumChannel": "1212661193022640168",
+  "genCooldown": "5",
+  "premiumCooldown": "3",
+
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
